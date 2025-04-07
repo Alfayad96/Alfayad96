@@ -1,15 +1,15 @@
 # Hi, ich bin Mohammad Alfayad!
-
-Ich bin angehender Fachinformatiker für Anwendungsentwicklung (Umschulung) und entwickle mit Begeisterung moderne Softwarelösungen.  
-Durch meine Projekte, kontinuierliches Lernen und den Einsatz moderner Technologien baue ich mein Entwicklerprofil stetig aus.
-
+Ich befinde mich derzeit in der Umschulung zum Fachinformatiker für Anwendungsentwicklung und 
+arbeite kontinuierlich daran, meine Fähigkeiten in der Softwareentwicklung zu verbessern. 
+Durch meine Projekte und das stetige Lernen neuer Technologien erweitere 
+ich mein Entwicklerprofil und entwickle mich ständig weiter.
 ---
 
 ## 🚀 Skills
-- **Sprachen:** Python, JavaScript, Java, SQL  
+- **Sprachen:** Python(fortgechreten), JavaScript(in Arbeit), Java(Grundlagen), SQL(Grundlagen)
 - **Web:** HTML, CSS, Node.js, React (in Arbeit)  
-- **Tools:** Git & GitHub, MongoDB, Postman, VS Code  
-- **Methoden:** Objektorientierte Programmierung, Clean Code, Scrum, Agile Projektmanagement  
+- **Tools:** Git & GitHub, MongoDB(in Arbeit), Postman, VS Code  
+- **Methoden:** Objektorientierte Programmierung, Clean Code, Scrum(in Arbeit), Agile Projektmanagement(in Arbeit)
 
 ---
 
@@ -31,7 +31,7 @@ Dynamische Firmenwebseite mit Admin-Bereich, Paketbuchung, Mitarbeiterprofilen u
 
 ## 📚 Ausbildung
 - **Umschulung zum Fachinformatiker für Anwendungsentwicklung**  
-  *Dauer: 17.06.2024 – 16.06.2026*  
+  *Dauer: 17.06.2024 – 16.06.2026*  in München 
 - Abitur (Allgemeine Hochschulreife) – Syrien  
 
 ---
