@@ -22,9 +22,9 @@ Ein sicherer Passwort-Manager mit GUI zur Verwaltung und Generierung von Passwö
 Ein Verwaltungstool für Mitarbeiterdaten mit Such- und Bearbeitungsfunktionen.
 
 ### **3. [Zahlen Erraten – Spiel](https://github.com/Alfayad96/Zahlen_Erraten_Spiel)**  
-Ein simples Konsolenspiel zum Üben von Benutzerinteraktion und Logik in Python.
 
-### **4. [Moderne IT-Webseite](https://github.com/Alfayad96/Meine-Webseite)**  
+
+### **4. [Moderne IT-Webseite](in Arbeit) (https://github.com/Alfayad96/Meine-Webseite)**  
 Dynamische Firmenwebseite mit Admin-Bereich, Paketbuchung, Mitarbeiterprofilen und Animationen (Ziel: Cloud-Hosting mit Vercel).
 
 ---
