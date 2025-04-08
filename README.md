@@ -44,7 +44,6 @@ Dynamische Firmenwebseite mit Admin-Bereich, Paketbuchung, Mitarbeiterprofilen u
 ---
 
 ## 📫 Kontakt
-- **Telefon:** +49 176 66649160  
 - **E-Mail:** mohammad.alfayad96@outlook.de
 - **LinkedIn:** (https://www.linkedin.com/in/mohammad-alfayad-22a9b1235)
 
