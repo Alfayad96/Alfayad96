@@ -89,16 +89,22 @@ Automatisierte Suche, Analyse und Bewertung öffentlicher Ausschreibungen.
 
 ---
 
-## 🎮 UER Game *(Unternehmensprojekt)*
+## 🎮 OER – Tales of Openness *(Unternehmensprojekt)*
 
-Serious Game zur Vermittlung moralischer und ethischer Entscheidungssituationen.
+Ein interaktives Serious Game zur Vermittlung von Open Educational Resources (OER), entwickelt während meines Praktikums.
 
-**Technologien**
+**Meine Aufgaben**
 
-* Unity
-* C#
-* Softwaretesting
-* Debugging
+* Entwicklung der ersten spielbaren Version mit **Godot Engine**
+* Programmierung mit **GDScript**
+* Umsetzung verschiedener Spielmechaniken
+* Entwicklung der Benutzeroberfläche
+* Implementierung von Dialogen und Spielszenen
+* Fehleranalyse, Testing und Optimierung
+
+Das Projekt wurde anschließend gemeinsam mit weiteren Entwicklern weiterentwickelt.
+
+> Der vollständige Quellcode wird aus Datenschutz- und Unternehmensgründen nicht veröffentlicht.
 
 ---
 
