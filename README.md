@@ -222,4 +222,4 @@ Aus Datenschutz- und Unternehmensgründen werden nicht alle Quellcodes veröffen
 
 Dieses Repository dient ausschließlich Portfolio- und Demonstrationszwecken.
 
-© 2026 Mohammad Alfayad
+© 2026 Mohammad Alfayad 
